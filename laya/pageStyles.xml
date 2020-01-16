@@ -1,0 +1,8 @@
+<page>
+   <item name="Main.scene" props="" ifExport="文件模式" aName=""/>
+   <item name="Game.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="interface/GameHUD.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="Load.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="HomeHUD.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="GameHUD.scene" props="" ifExport="分离模式" aName=""/>
+</page>
