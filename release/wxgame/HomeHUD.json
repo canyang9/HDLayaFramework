@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":720,"name":"HomeHUD","height":1280},"compId":2,"child":[{"type":"Script","props":{"runtime":"game_ui/home_hud.ts"},"compId":3}],"loadList":[],"loadList3D":[]}
